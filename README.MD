@@ -13,7 +13,7 @@ Inside every challenge youre going to find the requirements and resources to com
 What we do and with whom we work
 
 * [Services](https://www.paisanos.io/)
-* [Clients](https://www.linkedin.com/company/paisanos)
+* [Clients](https://www.paisanos.io/clients)
 * [Projects](https://www.behance.net/paisanoscreando)
 
 Follow us on social media

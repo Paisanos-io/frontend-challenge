@@ -5,8 +5,8 @@
 Hey! If you came this far is because you're looking for a challenge and we have many for you!.
 Inside every challenge youre going to find the requirements and resources to complete them and throw some magic!.
 
-* [Web Challenges](https://www.paisanos.io/)
-* [Mobile Challenges](https://www.paisanos.io/)
+* [Web Challenges](https://github.com/Paisanos-io/frontend-challenge/tree/main/web-challenges)
+* [Mobile Challenges *SOON*](https://www.paisanos.io/)
 
 ### Who we are
 

@@ -34,6 +34,14 @@ You will find all the assets and design resources in [this Figma file](https://w
 
 Read the [API Documentation](https://paisanos.notion.site/paisanos/NFPaisanos-Challenge-9c9fe549402d4d03918316d84f809dcb).
 
+### Delivery
+
+At the end of the challenge, send us the repo and a url with the challenge.
+We recommend:
+
+* [Vercel](https://vercel.com)
+* [Netlify](https://www.netlify.com/)
+
 ### Tech
 
 In this challenge, we are looking to see two techs

@@ -25,7 +25,7 @@ You will find all the assets and design resources in [this Figma file](https://w
 
 ### Tech
 
-In this challenge, we are looking to see two techs
+In this challenge, we are looking to see one tech
 
 * [Webflow](https://webflow.com/)
 

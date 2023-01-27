@@ -7,7 +7,7 @@ Inside every challenge youre going to find the requirements and resources to com
 
 * [Web Challenges](https://github.com/Paisanos-io/frontend-challenge/tree/main/web-challenges)
 * [No Code Challenges](https://github.com/Paisanos-io/frontend-challenge/tree/main/no-code-challenges)
-* [Mobile Challenges *SOON*](https://www.paisanos.io/)
+* [Mobile Challenges](https://github.com/Paisanos-io/frontend-challenge/tree/main/mobile-challenges)
 
 ### Who we are
 
